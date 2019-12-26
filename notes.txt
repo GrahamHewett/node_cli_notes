@@ -1,0 +1,2 @@
+This is how to create a new file with some content in your OS from node.js
+Avoid overwriting existing lines by using the fs.appendFile() methods
